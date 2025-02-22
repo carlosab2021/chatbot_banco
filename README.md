@@ -11,4 +11,4 @@ Este es un agente de atención al cliente basado en Streamlit y LangChain. Permi
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/carlosab2021/chatbot_banco.git
