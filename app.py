@@ -36,7 +36,7 @@ class GroqLLM(LLM):
         return "groq"
 
 # Crear un modelo de lenguaje LangChain
-api_key = "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"  # Reemplaza con tu API key de Groq
+api_key = "gsk_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxhz1"  # Reemplaza con tu API key de Groq
 llm = GroqLLM(api_key=api_key)
 
 # Cargar la base de conocimientos
